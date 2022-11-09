@@ -1,0 +1,15 @@
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\bin\Debug\net6.0\5 торты практическая.exe
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\bin\Debug\net6.0\5 торты практическая.deps.json
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\bin\Debug\net6.0\5 торты практическая.runtimeconfig.json
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\bin\Debug\net6.0\5 торты практическая.dll
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\bin\Debug\net6.0\5 торты практическая.pdb
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.csproj.AssemblyReference.cache
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.AssemblyInfoInputs.cache
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.AssemblyInfo.cs
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.dll
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\refint\5 торты практическая.dll
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.pdb
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\5 торты практическая.genruntimeconfig.cache
+C:\Users\Светлана\source\repos\5 торты практическая\5 торты практическая\obj\Debug\net6.0\ref\5 торты практическая.dll
